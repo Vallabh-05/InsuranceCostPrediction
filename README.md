@@ -33,24 +33,6 @@ A **powerful** and **insightful** project that predicts **insurance costs** usin
 
 ---
 
-## 📥 **Installation & Setup**  
-
-### 🔹 **Prerequisites**  
-Ensure you have the necessary dependencies installed:  
-```bash
-pip install pandas numpy seaborn scikit-learn keras matplotlib
-```
-
-### 🔹 **Execution**  
-Clone the repository and run the script:  
-```bash
-git clone https://github.com/lokeshagarwal2304/insurance-cost-prediction.git
-cd insurance-cost-prediction
-python main.py
-```
-
----
-
 ## 🎯 **Model Workflow**  
 
 🔹 **📜 Data Preprocessing** – Loads and cleans the dataset.  
@@ -66,9 +48,6 @@ python main.py
 
 This project generates an **interactive graph** that visually compares **actual vs predicted insurance charges**.  
 
-🖼 **Sample Output:**  
-![Actual vs Predicted Graph](image.png)  
-
 ---
 
 ## 📁 **Code Structure**  
@@ -82,26 +61,6 @@ This project generates an **interactive graph** that visually compares **actual 
  ├── 📄 README.md       # Documentation
 ```
 
----
-
-## 📬 **Contact**  
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="background-color:#d9ed92; padding:10px; border-radius:5px;">📧 <b>Email:</b></td>
-      <td>gayatri192005@gmailcom | lokeshagarwal2304@gmail.com </td>
-    </tr>
-    <tr>
-      <td style="background-color:#f4a261; padding:10px; border-radius:5px;">🐦 <b>Twitter:</b></td>
-      <td><a href="https://twitter.com/lokeshagarwal2304">@gayatri192005 | @lokeshagarwal2304</a></td>
-    </tr>
-    <tr>
-      <td style="background-color:#2a9d8f; padding:10px; border-radius:5px;">💼 <b>LinkedIn:</b></td>
-      <td><a href="https://linkedin.com/in/gayatri192005">Gayatri G | Lokesh Agarwal</a></td>
-    </tr>
-  </table>
-</div>  
 
 ---
 
